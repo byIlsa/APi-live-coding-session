@@ -1,0 +1,26 @@
+/* Google font import link */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+html {
+    scroll-behavior: smooth;
+    min-height: 100vh;
+}
+
+body {
+    background-color: #D35400 ;
+    font-family: "Montserrat", sans-serif;
+    font-size: 62.5%;
+    overflow-x: hidden;
+    position: relative;
+}
+
+.title {
+    color: #000;
+    font-size: 2.5rem;
+}
+
+#getData {
+    font-size: 1rem;
+    background-color: #F1C40F;
+    border-color: #000;
+}
